@@ -2,13 +2,19 @@
 
 Simple JavaScript game using Canvas
 
-## Objective: 
+Created for CSC309 Web Programming
+
+Hosted on GitHub Pages
+
+https://chenans2.github.io/canvas-game/
+
+## Objective:
 
 The object of the game is to stop black holes from eating the solar
 system – planets, nebulae, alien spacecraft, space junk – by quickly clicking on
 all of the black holes as they appear before the time is up.
 
-## Description: 
+## Description:
 
 Before you is a solar system filled with all sorts of objects: planets,
 moons, nebulae, asteroids, spacecraft, space junk, and more. However, black
